@@ -1,0 +1,10 @@
+{
+  "simulation": "chuck_norris_jokes.CategoryJokeSimulation",
+  "simulationId": "categoryjokesimulation",
+  "start": 1639427622273,
+  "description": "",
+  "scenarios": ["CategoryJokeSimulation"],
+  "assertions": [
+
+  ]
+}

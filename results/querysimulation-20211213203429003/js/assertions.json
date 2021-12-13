@@ -1,0 +1,10 @@
+{
+  "simulation": "chuck_norris_jokes.QuerySimulation",
+  "simulationId": "querysimulation",
+  "start": 1639427669003,
+  "description": "",
+  "scenarios": ["QuerySimulation"],
+  "assertions": [
+
+  ]
+}
